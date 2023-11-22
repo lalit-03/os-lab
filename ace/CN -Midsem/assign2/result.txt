@@ -1,0 +1,90 @@
+Q1) a)
+student@cse:~$ lscpu
+
+    CPU(s):              8
+    Core(s) per socket:  4
+    Socket(s):           1
+
+b)
+    CPU max MHz:         4200.0000
+    CPU min MHz:         800.0000
+
+c)
+nano /proc/meminfo
+MemTotal:        3900684 kB
+
+d)
+MemFree:          406952 kB
+MemAvailable:    1281292 kB
+
+free->not in use
+available -> can be used but OS has to empty the space
+
+e)
+student@cse:~$ ps aux|wc -l
+288
+
+f)
+cat /proc/stat
+ctxt 3188148
+
+g)
+student@cse:~$ ls -l /proc
+
+size of al files are 0 (except kcore,self) as these aren't real files just representation of file heirarchy
+
+Q2)
+student@cse:~/mainmem$ g++ task2.cpp
+student@cse:~/mainmem$ ./a.out
+student@cse:~/mainmem$ ps aux | grep "task2"
+student     6507  0.0  0.0  17732  2532 pts/0    S+   16:31   0:00 grep --color=auto task2
+
+student@cse:~/mainmem$ ps aux | grep "task1"
+student     7636  0.0  0.0  17732  2528 pts/0    S+   17:22   0:00 grep --color=auto task1
+
+
+VmSize->17732 (virtual)
+VmRSS-> 2532 (Actual)
+
+Q3)
+student@cse:~/mainmem$ ps
+    PID TTY          TIME CMD
+   3262 pts/0    00:00:00 bash
+   7003 pts/0    00:00:00 ps
+student@cse:~/mainmem$ ps --ppid 3262 | wc -l
+3
+student@cse:~/mainmem$ ps --ppid 7003 | wc -l
+1
+
+Q4)
+strace -o output_hello.txt ./hello -f -e trace=write,open ls -l
+
+a)
+startup sequence is same 
+the only difference is due to the write syscall becuase of printf statement
+
+
+b)
+
+hello->
+
+brk->malloc uses this to allocate memory
+openat->he open() function establishes the connection between a file and a file descriptor
+close->closes a file descriptor, so that it no longer refers to any file and may be reused. 
+read->retrieves data
+write-> to print the output
+
+empty->
+
+brk
+openat
+close
+read
+
+
+
+
+
+
+
+

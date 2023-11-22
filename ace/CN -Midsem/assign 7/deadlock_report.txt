@@ -1,0 +1,2101 @@
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #0: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: ends eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 0: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #1: ends eating
+Philosopher #3: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Run 1: No deadlock
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Run 2: No deadlock
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Run 3: No deadlock
+Philosopher #0: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Run 4: No deadlock
+Philosopher #0: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 5: No deadlock
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #3: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #4: ends eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Run 6: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Run 7: No deadlock
+Philosopher #1: starts thinking
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #1: ends eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Run 8: No deadlock
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #2: starts thinking
+Philosopher #1: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #0: ends eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Run 9: No deadlock
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #2: starts thinking
+Philosopher #1: starts thinking
+Philosopher #4: starts thinking
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Run 10: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Run 11: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 12: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #0: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: ends eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 13: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: starts eating
+Philosopher #4: ends eating
+Philosopher #1: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #3: ends eating
+Philosopher #0: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Run 14: No deadlock
+Philosopher #1: starts thinking
+Philosopher #0: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #3: starts thinking
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #2: ends eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #3: ends eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Run 15: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: ends eating
+Philosopher #1: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 16: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #3: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #3: ends eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Run 17: No deadlock
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #1: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Run 18: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Run 19: No deadlock
+Philosopher #0: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Run 20: No deadlock
+Philosopher #0: starts thinking
+Philosopher #2: starts thinking
+Philosopher #1: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 21: No deadlock
+Philosopher #1: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: ends eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #3: ends eating
+Philosopher #0: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Run 22: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #3: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: ends eating
+Philosopher #0: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: ends eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 23: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: ends eating
+Philosopher #1: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 24: No deadlock
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Run 25: No deadlock
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts picking up chopsticks
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #3: starts eating
+Philosopher #0: ends eating
+Philosopher #3: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #4: ends eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Run 26: No deadlock
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #0: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Run 27: No deadlock
+Philosopher #0: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: ends eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 28: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 29: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #3: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: ends eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 30: No deadlock
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #1: ends eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: ends eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Run 31: No deadlock
+Philosopher #0: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #4: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #0: ends eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Run 32: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Run 33: No deadlock
+Philosopher #1: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: ends eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #3: ends eating
+Philosopher #0: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Run 34: No deadlock
+Philosopher #1: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts picking up chopsticks
+Philosopher #1: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #3: ends eating
+Philosopher #0: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Run 35: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #3: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #2: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: ends eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 36: No deadlock
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #0: ends eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Run 37: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Run 38: No deadlock
+Philosopher #0: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts thinking
+Philosopher #3: starts thinking
+Philosopher #2: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Run 39: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts picking up chopsticks
+Philosopher #0: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: starts eating
+Philosopher #2: ends eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: ends eating
+Philosopher #1: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 40: No deadlock
+Philosopher #0: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: ends eating
+Philosopher #1: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 41: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #1: ends eating
+Philosopher #3: ends eating
+Run 42: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: ends eating
+Philosopher #1: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 43: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 44: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #1: ends eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: ends eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Run 45: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: ends eating
+Philosopher #1: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 46: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: ends eating
+Philosopher #1: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 47: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #1: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 48: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #3: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: ends eating
+Philosopher #1: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 49: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #3: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #0: ends eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #2: ends eating
+Philosopher #4: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Run 50: No deadlock
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts picking up chopsticks
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #3: starts eating
+Philosopher #0: ends eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: ends eating
+Philosopher #1: ends eating
+Run 51: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #1: ends eating
+Philosopher #3: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Run 52: No deadlock
+Philosopher #1: starts thinking
+Philosopher #0: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #2: ends eating
+Philosopher #4: ends eating
+Run 53: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #3: starts thinking
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: ends eating
+Philosopher #1: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 54: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: ends eating
+Philosopher #1: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 55: No deadlock
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #3: ends eating
+Philosopher #1: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Run 56: No deadlock
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #0: ends eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #2: ends eating
+Philosopher #4: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Run 57: No deadlock
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #0: ends eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #2: ends eating
+Philosopher #4: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Run 58: No deadlock
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Run 59: No deadlock
+Philosopher #1: starts thinking
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts thinking
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 60: No deadlock
+Philosopher #1: starts thinking
+Philosopher #0: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #3: ends eating
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Run 61: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #3: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #1: ends eating
+Philosopher #3: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Run 62: No deadlock
+Philosopher #0: starts thinking
+Philosopher #2: starts thinking
+Philosopher #1: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #1: ends eating
+Philosopher #3: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Run 63: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: ends eating
+Philosopher #1: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 64: No deadlock
+Philosopher #0: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 65: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #3: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #1: ends eating
+Philosopher #3: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Run 66: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #2: ends eating
+Philosopher #4: ends eating
+Run 67: No deadlock
+Philosopher #0: starts thinking
+Philosopher #2: starts thinking
+Philosopher #1: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #4: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: starts eating
+Philosopher #1: ends eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 68: No deadlock
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #3: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #3: starts eating
+Philosopher #1: ends eating
+Philosopher #3: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Run 69: No deadlock
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #0: ends eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #2: ends eating
+Philosopher #4: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Run 70: No deadlock
+Philosopher #1: starts thinking
+Philosopher #0: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #2: ends eating
+Philosopher #4: ends eating
+Run 71: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #3: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #3: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #3: starts eating
+Philosopher #1: ends eating
+Philosopher #3: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Run 72: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: ends eating
+Philosopher #1: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 73: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #1: ends eating
+Philosopher #3: ends eating
+Run 74: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #3: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: ends eating
+Philosopher #1: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 75: No deadlock
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Run 76: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Run 77: No deadlock
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Run 78: No deadlock
+Philosopher #0: starts thinking
+Philosopher #2: starts thinking
+Philosopher #1: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #4: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #1: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 79: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #3: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: ends eating
+Philosopher #1: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 80: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #4: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: starts eating
+Philosopher #1: ends eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 81: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #1: ends eating
+Philosopher #3: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Run 82: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Run 83: No deadlock
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: ends eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 84: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #3: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #0: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Run 85: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 86: No deadlock
+Philosopher #1: starts thinking
+Philosopher #0: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 87: No deadlock
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #1: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 88: No deadlock
+Philosopher #1: starts thinking
+Philosopher #0: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #2: ends eating
+Philosopher #4: ends eating
+Run 89: No deadlock
+Philosopher #1: starts thinking
+Philosopher #3: starts thinking
+Philosopher #0: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #1: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Run 90: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: ends eating
+Philosopher #2: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 91: No deadlock
+Philosopher #1: starts thinking
+Philosopher #0: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Run 92: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #1: ends eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #3: ends eating
+Philosopher #0: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Run 93: No deadlock
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #1: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #0: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Run 94: No deadlock
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #0: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Run 95: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #3: starts thinking
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #0: ends eating
+Philosopher #3: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #4: ends eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Run 96: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #2: starts thinking
+Philosopher #3: starts thinking
+Philosopher #4: starts thinking
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #2: ends eating
+Philosopher #0: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #4: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #1: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Run 97: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #3: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Run 98: No deadlock
+Philosopher #0: starts thinking
+Philosopher #1: starts thinking
+Philosopher #3: starts thinking
+Philosopher #2: starts thinking
+Philosopher #4: starts thinking
+Philosopher #1: starts picking up chopsticks
+Philosopher #1: starts eating
+Philosopher #1: ends eating
+Philosopher #0: starts picking up chopsticks
+Philosopher #0: starts eating
+Philosopher #0: ends eating
+Philosopher #4: starts picking up chopsticks
+Philosopher #4: starts eating
+Philosopher #4: ends eating
+Philosopher #3: starts picking up chopsticks
+Philosopher #3: starts eating
+Philosopher #3: ends eating
+Philosopher #2: starts picking up chopsticks
+Philosopher #2: starts eating
+Philosopher #2: ends eating
+Run 99: No deadlock
+Number of deadlocks encountered:0
